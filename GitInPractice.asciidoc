@@ -6,3 +6,6 @@
 == Chapter 2
 // TODO: write two chapters
 
+== Chapter 3
+Cloning test.
+
