@@ -9,3 +9,5 @@
 == Chapter 3
 Cloning test.
 
+3.2.5 fetch exercise
+
