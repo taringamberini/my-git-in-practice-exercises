@@ -4,7 +4,7 @@
 // TODO: think of funny first line that editor will approve.
 
 == Chapter 2
-// TODO: write two chapters
+Bla bla bla bla
 
 == Chapter 3
 Cloning test.
