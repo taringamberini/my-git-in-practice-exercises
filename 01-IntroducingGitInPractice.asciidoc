@@ -13,8 +13,14 @@ Cloning test.
 
 -- 4.8 Reapply stashed changed
 
-1. I have stashed my working directory
-2. This fixes an urgent issue
-3. I have to commit the fixes
-4. I have to reapply stashed working directory
+1. append "EXTRA" text to this file
+2. I have stashed my working directory
+3. This fixes an urgent issue
+4. I have to commit the fixes
+5. I have to reapply stashed working directory
+
+EXTRA
+
+-- 4.11 List assumed unchanged files
+Add content after assume-unchanged
 
