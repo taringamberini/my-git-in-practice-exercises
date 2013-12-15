@@ -9,5 +9,12 @@ Bla bla bla bla
 == Chapter 3
 Cloning test.
 
-3.2.5 fetch exercise
+-- 3.2.5 fetch exercise
+
+-- 4.8 Reapply stashed changed
+
+1. I have stashed my working directory
+2. This fixes an urgent issue
+3. I have to commit the fixes
+4. I have to reapply stashed working directory
 
