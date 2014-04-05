@@ -1,13 +1,10 @@
 = Git In Practice
 
-
 == Chapter 1
 // TODO: think of funny first line that editor will approve.
 
-
 == Chapter 2
 Bla bla bla bla
-
 
 == Chapter 3
 Cloning test.
@@ -26,5 +23,4 @@ EXTRA
 
 -- 4.11 List assumed unchanged files
 Add content after assume-unchanged
-
 
