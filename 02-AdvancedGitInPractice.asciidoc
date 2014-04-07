@@ -1,2 +1,8 @@
 == Chapter 2
 Advanced practice technique.
+
+== Chapter 6
+
+=== 6.4 Rebase commits on top of another branch: git rebase
+
+Rebase exercise done.
